@@ -6,10 +6,14 @@ Oficina do PPGBOT-Inpa. Scripts links e dicas para suas análises e seus projeto
 
 1. Instale o software **git** na sua máquina (esse software pode se usado para se comunicar com diferentes repositórios remotos, não é da github, nem gitlab, etc...)
 
-*Linux:
+*Linux Debian:
 ```
 sudo apt install git
 git --version
+```
+Arch Linux
+```
+sudo pacman -S git
 ```
 Windows:  
 - [Download](https://git-scm.com/download/win)
@@ -28,6 +32,7 @@ brew install git
   - Crie a conta no github.com;
   - Defina uma **SSH-KEY** no seu computador e coloque ela na sua conta do github, isso permite você se conectar com os seus repositórios remoto sem precisar fazer o login ou digitar a senha
     - [Aqui tem instruções gerais](https://docs.github.com/en/github/authenticating-to-github/testing-your-ssh-connection)
+    - [Aqui para usuários ArchLinux](https://github.com/White-Oak/arch-setup-for-dummies/blob/master/setting-up-ssh-agent.md)
     -  [Aqui para usuários windows](https://phoenixnap.com/kb/generate-ssh-key-windows-10)
 
 4. Clone o repositório da disciplina no seu computador. Importante usar o link SSH do código para clonar, o link do HTTPS vai sempre pedir o usuário e senha. Então clone com o comando abaixo:
