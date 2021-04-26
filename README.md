@@ -12,8 +12,8 @@ sudo apt install git
 git --version
 ```
 Windows:  
-- [](https://git-scm.com/download/win)
-- [](https://phoenixnap.com/kb/how-to-install-git-windows)
+- [Download](https://git-scm.com/download/win)
+- [Como instalar](https://phoenixnap.com/kb/how-to-install-git-windows)
 
 Mac: Use o [Homebrew](https://brew.sh/) para fazer essa instalação
 ```
