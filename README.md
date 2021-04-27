@@ -2,11 +2,16 @@
 
 Oficina do PPGBOT-Inpa. Scripts links e dicas para suas análises e seus projetos.
 
-Veja abaixo como começar com o git e ligar este repositório ao seu computador.
+# Passos & Dicas
 
-Este repositório tem um **branch** com páginas para documentação (o web site da oficina), que é feitos na forma de arquivos de markdown *md*, onde podemos colocar dicar e informações, além dos scripts aqui depositados. 
+1. Se ainda não fez, veja abaixo como começar com o git e ligar este repositório ao seu computador. Ou se preferir use a interface do github para acrescentar arquivos e páginas.
+2. Scripts na pasta scripts
+3. Nomes de arquivos na usando *snake-case.R*, que tenham nomes informativos e tenham um comentário no cabeçalho informando o que ele faz (se colocar scripts aqui, coloque eles bem comentados).
+4. Para cada script ou conjunto de scripts e análises pode ser criada uma ou mais página web no site da disciplina, que nada mais é do que um conjunto de arquivos markdown (*.md) que ficam na pasta *docs*. Pode ver o código de algum arquivo md já exitente para entender o que ele gera. Se incluir o arquivo, coloque um link para ele na página index.md
 
-Acesse aqui: https://github.com/betovicentini/oficinadedados/blob/gh-pages/index.md
+# Site da oficina
+
+Na pasta *docs* acima ficam arquivos *.md (markdown), que vira o [site da oficina](https://betovicentini.github.io/oficinadedados/). Você pode acrescentar páginas ao site explicando coisas que estão nos scripts, fica aqui para todo mundo ver e acessar.
 
 # Instalar este repositório na sua máquina (local)
 
