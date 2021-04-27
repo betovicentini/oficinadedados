@@ -8,6 +8,7 @@ Esta pasta tem ajuda para classificações *supervisionadas* e *não-supervision
 
 # Tutoriais
 
+1. [Pacote caret](http://topepo.github.io/caret/index.html) - muito boa referencia do pacote caret e como implementar **classificação supervisionada**
 1. [Caret package do R](https://cran.r-project.org/web/packages/caret/vignettes/caret.html) - pacote citado no artigo acima
 1. [Introdução à Machine Learning no R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
 1. [Outro tutorial](https://quantdev.ssri.psu.edu/tutorials/unsupervised-machine-learning-hclust-pvclust-cluster-mclust-and-more)
