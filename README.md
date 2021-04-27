@@ -2,6 +2,12 @@
 
 Oficina do PPGBOT-Inpa. Scripts links e dicas para suas análises e seus projetos.
 
+Veja abaixo como começar com o git e ligar este repositório ao seu computador.
+
+Este repositório tem um **branch** com páginas para documentação (o web site da oficina), que é feitos na forma de arquivos de markdown *md*, onde podemos colocar dicar e informações, além dos scripts aqui depositados. 
+
+Acesse aqui: https://github.com/betovicentini/oficinadedados/blob/gh-pages/index.md
+
 # Instalar este repositório na sua máquina (local)
 
 1. Instale o software **git** na sua máquina (esse software pode se usado para se comunicar com diferentes repositórios remotos, não é da github, nem gitlab, etc...)
