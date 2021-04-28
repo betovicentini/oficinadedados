@@ -13,7 +13,7 @@ Esta pasta tem ajuda para classificações *supervisionadas* e *não-supervision
 1. [Introdução à Machine Learning no R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
 1. [Outro tutorial](https://quantdev.ssri.psu.edu/tutorials/unsupervised-machine-learning-hclust-pvclust-cluster-mclust-and-more)
 
-# Classificação {#aed-classificacao}
+# Classificação 
 
 Como classificar objetos? ou como testar uma classificação? 
 
