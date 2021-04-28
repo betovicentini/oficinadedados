@@ -5,7 +5,7 @@ Esta pasta tem ajuda para classificações *supervisionadas* e *não-supervision
 # Leituras
 
 1. [Unsupervised learning-and-data-clustering](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
-
+1. [Unsupervised example](https://datascienceplus.com/finding-optimal-number-of-clusters) - aqui tem um exemplo de como fazer a análise para determinar os grupos (classificação não-hierárquica)
 # Tutoriais
 
 1. [Pacote caret](http://topepo.github.io/caret/index.html) - muito boa referencia do pacote caret e como implementar **classificação supervisionada**
