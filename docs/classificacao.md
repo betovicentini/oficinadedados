@@ -63,12 +63,14 @@ Numa classificação supevisionada as classes dos objetos (i.e. as categorias a 
 2. escolher os parametros do 'melhor modelo';
 3. estimar a performance do 'melhor modelo';
 Assim, os passos são o seguinte:
-1. Para cada conjunto de dados e classificação usa a função _train_ para testar a acurácia de diferentes métodos de classificação supervisionada (e.g. LDA, RandomForest, KNN, etc.). Veja a Figura \ref{figtrainalgo} extraída de lá que mostra a lógica do procedimento dessa etapa.
+1. Para cada conjunto de dados e classificação usa a função _train_ para testar a acurácia de diferentes métodos de classificação supervisionada (e.g. LDA, RandomForest, KNN, etc.). Veja a Figura abaixo extraída de lá que mostra a lógica do procedimento dessa etapa.
 2. Compara a acurácia desses diferentes métodos para o dado e classificação testados;
 3. Seleciona o melhor modelo (método de classificação e seus parâmetros)
 4. Compara a acurácia das diferentes CLASSIFICAÇÕES (se tiver + de uma) segundo os melhores modelos selecionados para cada uma
 
-[](http://topepo.github.io/caret/premade/TrainAlgo.png) *Figura mostrando o que o train faz. Link da da imagem: http://topepo.github.io/caret/premade/TrainAlgo.png*
+![](http://topepo.github.io/caret/premade/TrainAlgo.png) 
+
+*Figura mostrando o que o train faz. Link da da imagem: http://topepo.github.io/caret/premade/TrainAlgo.png*
 
 
 #### Exemplo
