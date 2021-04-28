@@ -4,7 +4,7 @@ Esta pasta tem ajuda para classificações *supervisionadas* e *não-supervision
 
 # Leituras
 
-1. [Machine learning in plant science and plant breeding](https://www.sciencedirect.com/science/article/pii/S2589004220310877)
+1. [Unsupervised learning-and-data-clustering](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
 
 # Tutoriais
 
@@ -50,7 +50,7 @@ Depois você pode comparar o poder preditivo desses diferentes dados ou de difer
     - calcular uma *matriz de dissimilaridade* usando a função `daisy` do pacote (Cluster), que trata cada par de forma independente. O índice de *gower* é um bom índice para dados morfológicos;
     - se tua análise de classificação não aceita matrizes de distância, *use  NMDS* para transformar essa matriz em variáveis morfológicas ordenadas, faça o pré-tratamento das variáveis ordenadas e utilize essa matriz como dado morfológico;
   - Variáveis categóricas (fatores) não são aceitas em modelos preditivos como LDA, por exemplo. Pode resolver isso criando uma *variável binária* (0 ou 1) para cada categoria se tiver + de 2 categorias. Se apenas duas categorias converta o fator em numérico que resolve o problema `(as.numeric(as.factor(dados$coluna)))`. **NOTA** - examine antes se suas múltiplas categorias não fazem uma variável semi-quantitativa (ordinal), porque neste caso as categorias podem ser substituidas por números;
-  
+
 ### Supervisionada
 
 Numa classificação supevisionada as classes dos objetos (i.e. as categorias a serem testadas) são conhecidas e o objetivo pode ser: (1) gerar um modelo preditivo,  (2) testar e/ou comparar classificações.
